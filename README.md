@@ -7,5 +7,5 @@ Enlist your Contributions below :
 
 | Program Name  | Details       |
 | ------------- | ------------- |
-| User 1        | printing numbers  |
+| main       | hello  |
 | User 2        | printing alphabets  |
