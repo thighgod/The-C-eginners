@@ -9,3 +9,4 @@ Enlist your Contributions below :
 | ------------- | ------------- |
 | User 1        | printing numbers  |
 | User 2        | printing alphabets  |
+|for loop| for loop run hota ha or kya hi hoga|
